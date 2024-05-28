@@ -5,4 +5,6 @@
 - SQL
 - Power BI
 - Python
-![](1234.jpg)
+
+
+![](helloo.jpg)
